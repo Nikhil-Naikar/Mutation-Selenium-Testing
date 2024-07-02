@@ -1,4 +1,4 @@
-Mutation Testing and Selenium Testing**
+**Mutation Testing and Selenium Testing**
 
 # Introduction
 This report presents the findings of the team's work on mutation testing and automated web app testing. The team focused on applying mutation testing to the Range and DataUtilties classes and performed web app testing on the HomeDepot website using the Selenium library. Throughout the process, the team encountered challenges and learned valuable lessons related to both mutation testing and automated testing, which are discussed in detail below.
