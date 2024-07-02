@@ -1,15 +1,4 @@
-**SENG 637 - Dependability and Reliability of Software Systems**
-
-**Lab. Report \#4 – Mutation Testing and Web app testing**
-
-| Group: SENG637- 2   |
-|-----------------|
-| Jash Dubal                |   
-| Steven Duong              |   
-| Nikhil Naikar               |   
-| Jason Xu                |
-| Christopher DiMattia                |
-
+Mutation Testing and Selenium Testing**
 
 # Introduction
 This report presents the findings of the team's work on mutation testing and automated web app testing. The team focused on applying mutation testing to the Range and DataUtilties classes and performed web app testing on the HomeDepot website using the Selenium library. Throughout the process, the team encountered challenges and learned valuable lessons related to both mutation testing and automated testing, which are discussed in detail below.
